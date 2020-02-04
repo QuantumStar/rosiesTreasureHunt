@@ -1,0 +1,159 @@
+html {
+  height: 100%;
+  display: flex;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: space-between;
+  font-family: 'Alegreya Sans';
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: purple;
+
+  }
+
+img {
+  display: flex;
+  background-image: url(../images/1.jpeg);
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.stars {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  min-height: 15%;
+  width: 100%;
+}
+
+.star {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+ul {
+  width: 100%;
+  display: contents;
+}
+
+li {
+  color: yellow;
+  font-size: 3em;
+  font-family: cursive;
+  margin: 6px;
+}
+
+.starOne {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starTwo {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starThree {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starFour {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starFive {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starSix {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starSeven {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starEight {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starNine {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.starTen {
+  background-image: url(../images/grey-star-icon.png);
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
